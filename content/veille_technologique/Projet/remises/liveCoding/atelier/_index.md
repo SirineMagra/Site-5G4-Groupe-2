@@ -274,6 +274,7 @@ $:sound("bd*4, [~ sd]*2, [rim ~ <mt ht>]*4")
 .bank("rm50")
 ```
 
+<!--Ajouter un exemple de slider + reverb ?-->
 
 L'atelier est inspiré du site de Strudel. <br />Pour plus d'exemples et d'informations, visitez :
 https://strudel.cc/workshop/first-sounds/

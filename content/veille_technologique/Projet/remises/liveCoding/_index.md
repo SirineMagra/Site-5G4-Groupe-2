@@ -6,8 +6,8 @@ weight = 1
 +++
 
 > [!info] 
-> La section ci-dessous contient des informations contenant le live coding et ses différences fondamentales avec le programmation dite «conventionnelle», ainsi qu'un atelier qui permettra de démontrer une utilisation concrête du live coding avec Strudel.
+> La section ci-dessous contient des informations contenant le live coding, son historique et une tonne d'information concernant le live coding. Vous trouverez aussi un atelier sur Strudel, afn de mieu comprendre le Live Coding.
 
-## Le live coding comparativement à la programmation conventionnelle
+## Le Live Coding
 
 Par Sirine Magra.

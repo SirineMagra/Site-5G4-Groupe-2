@@ -29,6 +29,9 @@ Comme je sais que les informations qui vont dériver de cette question ne seront
 
 - «What is live coding» (Afin d'avoir plus de sources même si le contenu est en anglais)
 - «Difference between live coding and traditional programation languages»
+- «history of live coding»
+- «all forms of live coding»
+- «logiciels pour le live coding»
 
 
 ##### 2. Les sites/sources que j'ai décidé de garder 
@@ -42,3 +45,5 @@ Comme je sais que les informations qui vont dériver de cette question ne seront
 - https://strudel.cc/ , puisque c'est le site officiel, il va de soi que je l'utilise comme source.
 
 - https://responsivedreams.com/about/what-is-live-coding , le site est propulsé par des artistes du milieu live artistique, ce qui me semble assez fiable. Le site est aussi à jour, donc aucun soucis à ce niveau-là.
+
+(Note: Après avoir utilisé les sources ci-dessus, j'ai quand même dû utiliser plusieurs autres sources pour compléter mes notes de cours, parce que le contenu des sources précédentes ne me permettaient clairement pas remplir le volet des notes de cours. Ces sources se trouvent dans la page suivante et n'ont pas été validés selon les critères ci-haut, mais plutôt par mon propre jugement critique)
